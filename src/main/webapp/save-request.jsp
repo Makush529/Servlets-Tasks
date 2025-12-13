@@ -18,7 +18,7 @@
     </div>
     <div>
         <label for="phone">Телефон:</label>
-        <input type="tel" id="phone" name="phone" pattern="[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$" required />
+        <input type="tel" id="phone" name="phone"  required />
     </div>
     <button type="submit">Отправить заявку</button>
 </form>
